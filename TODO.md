@@ -1,9 +1,5 @@
 # top
 
-- this:
-    cat ./demo.log | go run ./cmd/ecslog -q 'num > 4 and log.level > debug'
-  stop removal of the core fields until later
-    - s/dottedGetBytes/ExtractValue
 - kqlog
   - impl all the rpnAction exec funcs
   - type handling for exec
