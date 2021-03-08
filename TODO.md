@@ -1,7 +1,7 @@
 # top
 
 - kqlog
-  - impl all the rpnAction exec funcs
+  - XXXs and TODOs in rpn.go
   - type handling for exec
   - quoted literals
 - `-x, --elide-fields' or something to remote from rendering
